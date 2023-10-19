@@ -1,0 +1,13 @@
+/Users/sofia/miniconda3
+/Users/sofia/miniconda3/envs/sleap
+/Users/sofia/miniconda3/envs/wazp-dev
+/Users/sofia/miniconda3/envs/blender-dev
+/Users/sofia/miniconda3/envs/jax-tutorial
+/Users/sofia/miniconda3/envs/python-tooling
+/Users/sofia/miniconda3/envs/DEEPLABCUT_M1
+/Users/sofia/miniconda3/envs/raft
+/Users/sofia/miniconda3/envs/brainglobe-dev
+/Users/sofia/miniconda3/envs/L2D-dev
+/Users/sofia/miniconda3/envs/sleap-stereo-dev
+/Users/sofia/miniconda3/envs/sphinx_new
+/Users/sofia/miniconda3/envs/sleap-pytest

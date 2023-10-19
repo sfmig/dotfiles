@@ -1,0 +1,9 @@
+PROMPT="%F{cyan}%n@%m:%1~ %# %f"
+export CLICOLOR=1
+
+preexec() { 
+    tput setaf 225
+    :
+}
+ 
+
